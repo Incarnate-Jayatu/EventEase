@@ -1,4 +1,4 @@
-# EventEase — Complete Java Project
+# EventEase — Campus Event Manager
 
 A beginner-friendly Java Swing desktop application for campus event management. It uses MySQL through JDBC.
 
