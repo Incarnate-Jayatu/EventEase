@@ -181,8 +181,3 @@ If the connection fails, read the full exception in the Eclipse Console and trou
 ## Security Note
 This is an academic project. Before using it with real student information, move credentials out of the source code, secure the admin login, validate inputs, and review database permissions.
 
-## Author / Team
-Add your team members, class, division, and academic year here.
-
-## License
-Add a license if you intend to distribute the project publicly.
